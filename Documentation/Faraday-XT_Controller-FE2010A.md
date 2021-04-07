@@ -14,6 +14,7 @@ various sources and experimentation.
 
 Most of the hardware specifications of Faraday FE2010A, including the pinout are similar to Faraday FE2010, and they are documented in
 the [Faraday FE2010 datasheet](Documentation/Faraday-XT_Controller-FE2010.pdf).
+[Internet Archive Mirror](https://archive.org/details/bitsavers_faradayFar010_620928/)
 
 ### Hardware Differences Between Faraday FE2010A and Faraday FE2010
 
